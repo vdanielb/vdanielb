@@ -1,4 +1,4 @@
-👋 Hi, I'm @vdanielb
+👋 Hi, I'm @vdanielb<br>
 I'm a student at UC San Diego, interested in machine learning, statistics, and data science. 
   
 You can email me at dharma.daniel2803@gmail.com
